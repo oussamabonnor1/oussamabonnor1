@@ -2,7 +2,12 @@
 # Hello there , :hand:
 
 Co-Founder of [@JetLightStudio](https://github.com/JetLightStudio) 👯. I love to create games and mobile apps! Currently learning about web backend and frontend 😄
-
+<p align="center"> 
+<img src="https://img.shields.io/badge/-Flutter-ffffff?style=flat-square?label=Flutter&logo=Flutter&style=for-the-badge&logoColor=blue" alt="Flutter">
+<img src="https://img.shields.io/badge/-Vue.js-ffffff?style=flat-square?label=Vue.js&logo=Vue.js&style=for-the-badge&logoColor=darkGreen" alt="Vue.js">
+<img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity">
+<img src="https://img.shields.io/badge/-Flask-ffffff?style=flat-square?label=Flask&logo=React&style=for-the-badge" alt="Flask">
+</p>
 <br>
  <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabonnor1&show_icons=true&theme=dracula&line_height=27" alt="Oussama's github stats"/></div>
 <br>
