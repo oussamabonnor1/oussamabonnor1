@@ -5,6 +5,7 @@ Co-Founder of [@JetLightStudio](https://github.com/JetLightStudio) 👯. I love 
 <p align="center"> 
 <img src="https://img.shields.io/badge/-Flutter-ffffff?style=flat-square?label=Flutter&logo=Flutter&style=for-the-badge&logoColor=blue" alt="Flutter">
 <img src="https://img.shields.io/badge/-Vue.js-ffffff?style=flat-square?label=Vue.js&logo=Vue.js&style=for-the-badge&logoColor=darkGreen" alt="Vue.js">
+<img src="https://img.shields.io/badge/-Nuxt.js-ffffff?style=flat-square?label=Nuxt.js&logo=Nuxt.js&style=for-the-badge&logoColor=darkGreen" alt="Nuxt.js">
 <img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity">
 <img src="https://img.shields.io/badge/-Flask-ffffff?style=flat-square?label=Flask&logo=React&style=for-the-badge" alt="Flask">
 </p>
